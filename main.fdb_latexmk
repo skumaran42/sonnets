@@ -1,7 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1701515632 "main.tex" "main.pdf" "main" 1701515633 0
+["pdflatex"] 1701690287 "main.tex" "main.pdf" "main" 1701690288 0
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
+  "/usr/local/texlive/2023/texmf-dist/tex/generic/minifp/minifp.sty" 1388794642 24613 40d63628704354a22c2d32caf7a01577 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex" 1655411236 19231 27205ee17aaa2902aea3e0c07a3cfc65 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex" 1655411236 7677 9cb1a74d945bc9331f2181c0a59ff34a ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty" 1654720880 5119 4ce42f43368f652f9c9522d943cce8e4 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd" 1667332637 2430 8418b3f1835e588625becbcac4dbce56 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/base/tuenc.def" 1654720880 26445 9ed4a9401f29cbb58ef6909cd5aec01f ""
@@ -14,6 +17,8 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def" 1673989714 32346 879686206fa618f4f5073ad4bd48feda ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty" 1677186603 6107 5cfea8a675c58918b8c04be10261e48c ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1675461949 6812 3c152a1c8d562d7b7291c4839b61a5c3 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/lettrine/lettrine.cfg" 1664137152 1173 083ccddc8e56194e08833908b147c186 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/lettrine/lettrine.sty" 1664137152 11125 ff8460e37074d4fcd4e3c1f15730fd58 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/memoir/mem10.clo" 1659128422 4184 029c4bb5f918651cccc3fd1b9fd1637d ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/memoir/memoir.cls" 1668718862 410814 93f56298fcef3843a8c1167e2bbbefee ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/textcase/textcase.sty" 1657483180 2405 93dca770d0598d835703b5d004a641b7 ""
@@ -21,11 +26,12 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/dcolumn.sty" 1654720880 2758 beca49e2ccab02c8d15ef4a02cc23354 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/delarray.sty" 1654720880 2157 85ff60fc72d72a4fdfaa9427ab820bfe ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty" 1654720880 7147 be6981d9f5d866a5634048c4a11814a9 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1655411236 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1680954377 10502821 688b819325dae33b07c5e87bfad9fec8 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "main.aux" 1701515633 655 9b98d8309e3b6e1e3a94e65e50e3c2d6 "pdflatex"
-  "main.tex" 1701515631 4780 4c82df48e65ff574181908d247697a41 ""
+  "main.aux" 1701690288 655 4df0c43f5c7e9b6edc476bedde5b5bca "pdflatex"
+  "main.tex" 1701690286 5033 46d5dbfc3f2b5ec45381418b6ca9bea2 ""
   (generated)
   "main.aux"
   "main.log"
