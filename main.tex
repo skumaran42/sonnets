@@ -1,10 +1,12 @@
-\documentclass[a5paper, oneside]{memoir}
-\usepackage[top=0.5in, left=0.4in]{geometry}
+\documentclass[a5paper, 12pt, oneside]{memoir}
+\usepackage[top=0.6in, bottom=0.6in, left=0.25in, right=0.25in]{geometry}
 \usepackage{fontspec, lettrine}
 
 \hfuzz=999pt
 \setmainfont{Plantin MT Pro}
 \setlength{\DefaultFindent}{1pt}
+\newfontface{\initials}{ZallmanCaps}
+\renewcommand{\LettrineFontHook}{\initials}
 
 \begin{document}
 
@@ -25,6 +27,25 @@
     Condemned me to a penalty appalling: \\
     \vin `Since to refrain from speech you thus presume, \\
     \vin The silence of your love shall be your doom.'
+\end{verse}
+
+\PoemTitle{}
+\vindent0pt
+\begin{verse}
+    \lettrine{A}{s} brave \textit{Prometheus}, having stol'n that fire \\>[-5pt]
+    Which by the Thunderer was from mortals hidden, \\
+    Did bear the brunt of his horrendous ire: \\
+    An endless retribution, torture-ridden; \\
+    As, every day, the liver of the thief \\
+    Was into fodder for \textit{Jove's} eagle made, \\
+    And, every night, grew back (much to his grief) \\
+    And blissful death was evermore delayed; \\
+    So is my heart by tyrant Love ensnared: \\
+    He shoots at it, heals it, then shoots again, \\
+    And yet the heart of my heart's thief is spared \\
+    From such recurrent, mischief-laden pain. \\
+    \vin Here is a proof that \textit{Cupid} suffers blindness: \\
+    \vin He dooms the robbed, and pardons thieves with kindness.
 \end{verse}
 
 \PoemTitle{}
@@ -82,25 +103,6 @@
     To see them maim my feeble peace the while. \\
     \vin So much I crave to know the direful truth \\
     \vin That I would fain befoul with deaths my youth.
-\end{verse}
-
-\PoemTitle{}
-\vindent0pt
-\begin{verse}
-    \lettrine{A}{s} brave \textit{Prometheus}, having stol'n that fire \\>[-5pt]
-    Which by the Thunderer was from mortals hidden, \\
-    Did bear the brunt of his horrendous ire: \\
-    An endless retribution, torture-ridden; \\
-    As, every day, the liver of the thief \\
-    Was into fodder for \textit{Jove's} eagle made, \\
-    And, every night, grew back (much to his grief) \\
-    And blissful death was evermore delayed; \\
-    So is my heart by tyrant Love ensnared: \\
-    He shoots at it, heals it, then shoots again, \\
-    And yet the heart of my heart's thief is spared \\
-    From such recurrent, mischief-laden pain. \\
-    \vin Here is a proof that \textit{Cupid} suffers blindness: \\
-    \vin He dooms the robbed, and pardons thieves with kindness.
 \end{verse}
 
 \PoemTitle{}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.8)  4 DEC 2023 17:14
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.8)  5 DEC 2023 11:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -24,8 +24,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \stockwidth=\dimen141
 \trimtop=\skip51
 \trimedge=\skip52
- (/usr/local/texlive/2023/texmf-dist/tex/latex/memoir/mem10.clo
-File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/memoir/mem12.clo
+File: mem12.clo 2022/07/29 v0.5 memoir class 12pt size option
 )
 \binding=\skip53
 \spinemargin=\skip54
@@ -446,29 +446,40 @@ Package fontspec Info: Font family 'PlantinMTPro(0)' created for font 'Plantin
 (fontspec)             Pro/BI/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
+
+Package fontspec Info: Font family 'ZallmanCaps(0)' created for font
+(fontspec)             'ZallmanCaps' with options
+(fontspec)             [BoldFont={},ItalicFont={},SmallCapsFont={}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"ZallmanCaps/AAT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 11.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -478,19 +489,19 @@ LaTeX Font Info:    ... okay on input line 9.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.90755pt, 329.02748pt, 63.16576pt)
-* v-part:(T,H,B)=(36.135pt, 489.67122pt, 71.70166pt)
+* h-part:(L,W,R)=(18.06749pt, 384.9658pt, 18.06749pt)
+* v-part:(T,H,B)=(43.36243pt, 510.78302pt, 43.36243pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
-* \textwidth=329.02748pt
-* \textheight=489.67122pt
-* \oddsidemargin=-43.36244pt
-* \evensidemargin=-43.36244pt
-* \topmargin=-66.20248pt
-* \headheight=12.0pt
-* \headsep=18.06749pt
-* \topskip=10.0pt
-* \footskip=25.29494pt
+* \textwidth=384.9658pt
+* \textheight=510.78302pt
+* \oddsidemargin=-54.2025pt
+* \evensidemargin=-54.2025pt
+* \topmargin=-63.28136pt
+* \headheight=14.5pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
 * \marginparwidth=7.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
@@ -510,95 +521,95 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 9.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 9.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 9.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 9.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 9.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 9.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 9.
-LaTeX Font Info:    Redeclaring math accent \check on input line 9.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 9.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 9.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 9.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 9.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 9.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 11.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 11.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 11.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 11.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 11.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 11.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 11.
+LaTeX Font Info:    Redeclaring math accent \check on input line 11.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 11.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 11.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 11.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 9.
+(Font)              `operators' in the math version `normal' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/PlantinMTPro(0)/m/n on input line 9.
+(Font)                  OT1/cmr/m/n --> TU/PlantinMTPro(0)/m/n on input line 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 9.
+(Font)              `operators' in the math version `bold' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/PlantinMTPro(0)/m/n on input line 9.
+(Font)                  OT1/cmr/bx/n --> TU/PlantinMTPro(0)/m/n on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/PlantinMTPro(0)/m/n --> TU/PlantinMTPro(0)/m/n on input line 9.
+(Font)                  TU/PlantinMTPro(0)/m/n --> TU/PlantinMTPro(0)/m/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/PlantinMTPro(0)/m/it on input line 9.
+(Font)                  OT1/cmr/m/it --> TU/PlantinMTPro(0)/m/it on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/PlantinMTPro(0)/b/n on input line 9.
+(Font)                  OT1/cmr/bx/n --> TU/PlantinMTPro(0)/b/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 9.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 9.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/PlantinMTPro(0)/m/n --> TU/PlantinMTPro(0)/b/n on input line 9.
+(Font)                  TU/PlantinMTPro(0)/m/n --> TU/PlantinMTPro(0)/b/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/PlantinMTPro(0)/b/it on input line 9.
+(Font)                  OT1/cmr/bx/it --> TU/PlantinMTPro(0)/b/it on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 9.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 9.
-Package lettrine.sty Info: Targeted height = 17.02pt
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 11.
+Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 17.02003pt (H);
-(lettrine.sty)             reported on input line 14.
-Package lettrine.sty Info: Targeted height = 17.02pt
+(lettrine.sty)             Lettrine height = 20.4974pt (H);
+(lettrine.sty)             reported on input line 16.
+Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 17.02003pt (T);
-(lettrine.sty)             reported on input line 33.
-Package lettrine.sty Info: Targeted height = 17.02pt
+(lettrine.sty)             Lettrine height = 20.4974pt (A);
+(lettrine.sty)             reported on input line 35.
+Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 17.02003pt (W);
-(lettrine.sty)             reported on input line 52.
-LaTeX Font Info:    Font shape `TU/PlantinMTPro(0)/m/sl' in size <10> not available
+(lettrine.sty)             Lettrine height = 20.52406pt (T);
+(lettrine.sty)             reported on input line 54.
+LaTeX Font Info:    Font shape `TU/PlantinMTPro(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/PlantinMTPro(0)/m/it' tried instead on input line 56.
 [1
 
 ]
-Package lettrine.sty Info: Targeted height = 17.02pt
+Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 17.02003pt (N);
-(lettrine.sty)             reported on input line 71.
-Package lettrine.sty Info: Targeted height = 17.02pt
+(lettrine.sty)             Lettrine height = 20.4974pt (W);
+(lettrine.sty)             reported on input line 73.
+Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 17.02003pt (A);
-(lettrine.sty)             reported on input line 90.
+(lettrine.sty)             Lettrine height = 20.4974pt (N);
+(lettrine.sty)             reported on input line 92.
  [2]
-Package lettrine.sty Info: Targeted height = 17.02pt
+Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 17.02003pt (L);
-(lettrine.sty)             reported on input line 109.
+(lettrine.sty)             Lettrine height = 20.4974pt (L);
+(lettrine.sty)             reported on input line 111.
  [3] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 7897 strings out of 476683
- 169030 string characters out of 5804048
- 1855018 words of memory out of 5000000
- 28116 multiletter control sequences out of 15000+600000
- 512455 words of font info for 53 fonts, out of 8000000 for 9000
+ 7910 strings out of 476683
+ 169183 string characters out of 5804048
+ 1854018 words of memory out of 5000000
+ 28124 multiletter control sequences out of 15000+600000
+ 512479 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,12n,85p,226b,402s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,85p,226b,400s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (3 pages).
