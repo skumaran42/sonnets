@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.8)  6 DEC 2023 20:24
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.8)  8 DEC 2023 09:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -578,11 +578,11 @@ Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             reported on input line 16.
 Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 20.4974pt (A);
+(lettrine.sty)             Lettrine height = 20.4974pt (F);
 (lettrine.sty)             reported on input line 35.
 Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 20.52406pt (T);
+(lettrine.sty)             Lettrine height = 20.4974pt (A);
 (lettrine.sty)             reported on input line 54.
 LaTeX Font Info:    Font shape `TU/PlantinMTPro(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/PlantinMTPro(0)/m/it' tried instead on input line 56.
@@ -591,18 +591,22 @@ LaTeX Font Info:    Font shape `TU/PlantinMTPro(0)/m/sl' in size <12> not availa
 ]
 Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 20.4974pt (W);
+(lettrine.sty)             Lettrine height = 20.52406pt (T);
 (lettrine.sty)             reported on input line 73.
 Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 20.4974pt (N);
+(lettrine.sty)             Lettrine height = 20.4974pt (W);
 (lettrine.sty)             reported on input line 92.
  [2]
 Package lettrine.sty Info: Targeted height = 20.524pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 20.4974pt (L);
+(lettrine.sty)             Lettrine height = 20.4974pt (N);
 (lettrine.sty)             reported on input line 111.
- [3] (./main.aux) ) 
+Package lettrine.sty Info: Targeted height = 20.524pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.4974pt (L);
+(lettrine.sty)             reported on input line 130.
+ [3] [4] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  7910 strings out of 476683
  169183 string characters out of 5804048
@@ -610,6 +614,6 @@ Here is how much of TeX's memory you used:
  28124 multiletter control sequences out of 15000+600000
  512479 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,12n,85p,226b,400s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,85p,226b,404s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (3 pages).
+Output written on main.pdf (4 pages).
