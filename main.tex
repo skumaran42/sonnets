@@ -1,14 +1,58 @@
 \documentclass[a5paper, 12pt, oneside]{memoir}
 \usepackage[top=0.6in, bottom=0.6in, left=0.25in, right=0.25in]{geometry}
-\usepackage{fontspec, lettrine}
+\usepackage{fontspec, pgfornament, soul, lettrine, Zallman}
 
 \hfuzz=999pt
-\setmainfont{Plantin MT Pro}
-\newfontface{\initials}{ZallmanCaps}
+\setmainfont{Adobe Garamond Pro}
 \setlength{\DefaultFindent}{1pt}
-\renewcommand{\LettrineFontHook}{\initials}
+\renewcommand{\LettrineFontHook}{\Zallmanfamily}
 
 \begin{document}
+
+\begin{titlingpage}
+\null  % Empty line
+\nointerlineskip  % No skip for prev line
+\vfill
+\let\snewpage \newpage
+\let\newpage \relax
+
+\centering
+{\HUGE \so{AMORINI}} \\[5pt]
+{\Large Containing fifty Sonnets} \\[10pt]
+{\Large\itshape Santhosh Kumaran}
+
+\let \newpage \snewpage
+\vfill 
+\break % page break
+\end{titlingpage}
+
+\PoemTitle{}
+\vindent0pt
+\begin{verse}
+    \lettrine{F}{air} \textit{Psyche}, chancing to descry my love, \\>[-6pt]
+    Went mad with lust, and longed for him amain, \\
+    And left poor \textit{Cupid} in his realm above \\
+    Who had implored her to remain in vain. \\
+    But when the flighty goddess `gan to woo him, \\
+    He spurned her praise, and laughed her love to scorn. \\
+    She begged and sobbed, unable to eschew him, \\
+    But left at length, dejected and forlorn. \\
+    And \textit{Cupid}, with a vengeful envy burning, \\
+    Let fly his darts (with lethal love enfierced) \\
+    Against the object of her newfound yearning \\
+    But ah, his flinty heart could not be pierced. \\
+    \vin Nay, it deflected each and every dart \\
+    \vin Into a milder prey: my heedless heart.
+\end{verse}
+
+\PoemTitle{}
+\vindent0pt
+\begin{verse}
+    \lettrine{D}{isastrous} darts, the germs of my despair, \\>[-6pt]
+    The guileful coaxers who deformed my reason, \\
+    Bribing that once-staunch helpmate to prepare \\
+    These saccharine poisons, filled with painful treason, \\
+\end{verse}
 
 \PoemTitle{}
 \vindent0pt
@@ -30,22 +74,16 @@
 \end{verse}
 
 \PoemTitle{}
+\begin{verse}
+    \vin `'Twixt you and me, my friend, much likeness sits; \\
+    \vin The only gulf is this: you have more wits.'
+\end{verse}
+
+\PoemTitle{}
 \vindent0pt
 \begin{verse}
-    \lettrine{F}{air} \textit{Psyche}, chancing to descry my love, \\>[-6pt]
-    Went mad with lust, and longed for him amain, \\
-    And left poor \textit{Cupid} in his realm above \\
-    Who had implored her to remain in vain. \\
-    But when the flighty goddess `gan to woo him, \\
-    He spurned her praise, and laughed her love to scorn. \\
-    She begged and sobbed, unable to eschew him, \\
-    But left at length, dejected and forlorn. \\
-    And \textit{Cupid}, with a vengeful envy burning, \\
-    Let fly his darts (with lethal love enfierced) \\
-    Against the object of her newfound yearning \\
-    But his granitic heart could not be pierced. \\
-    \vin No, it deflected each and every dart \\
-    \vin Into a milder prey: my heedless heart.
+    \lettrine{I}{ have} more wits? No, cruel, 'tis not so; \\>[-6pt]
+    I am perhaps the daftest wretch of all. \\
 \end{verse}
 
 \PoemTitle{}
@@ -60,7 +98,7 @@
     And, every night, grew back (much to his grief) \\
     And blissful death was evermore delayed; \\
     So is my heart by \textit{Cupid's} darts ensnared, \\
-    Then healed by hope, then soon besieged again. \\
+    Then healed by treacherous hope, then shot again. \\
     And yet the heart of my heart's thief is spared \\
     From such recurrent, mischief-laden pain. \\
     \vin Such is love's law: whereas the thief goes free, \\
@@ -83,7 +121,7 @@
     Fair! Let that rightful queen in you reside; \\
     Oust her usurpers, and their wiry throne. \\
     \vin By scores of tongues your praises shall be bred \\
-    \vin If you release your worth and shed the Thread.
+    \vin If you unbind your worth and shed the Thread.
 \end{verse}
 
 \PoemTitle{}
