@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1702649124 "main.tex" "main.pdf" "main" 1702649126 0
+["pdflatex"] 1703309748 "main.tex" "main.pdf" "main" 1703309750 0
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/initials/Zallman.tfm" 1191504327 616 78cd50d1604988fe231803089770722c ""
@@ -113,8 +113,8 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1680954377 10502821 688b819325dae33b07c5e87bfad9fec8 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "main.aux" 1702649125 1008 a98ee7c5852dec89a344c6b87da1acc4 "pdflatex"
-  "main.tex" 1702649124 6879 5e8173cc225259d2602e27371a3f4131 ""
+  "main.aux" 1703309749 743 7757304108cc0e63588db10fd811b65f "pdflatex"
+  "main.tex" 1703309746 6266 fe3ceb65eb9f82c98182ea4ead8d7e22 ""
   (generated)
   "main.aux"
   "main.log"
