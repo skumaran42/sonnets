@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.8)  24 DEC 2023 12:21
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.8)  26 DEC 2023 19:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -859,14 +859,18 @@ Package lettrine.sty Info: Targeted height = 19.744pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.71841pt (L);
 (lettrine.sty)             reported on input line 165.
- [4] (./main.aux) ) 
+Package lettrine.sty Info: Targeted height = 19.744pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.71841pt (M);
+(lettrine.sty)             reported on input line 184.
+ [4] [5] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  19277 strings out of 476683
  412900 string characters out of 5804048
- 1854018 words of memory out of 5000000
+ 1855018 words of memory out of 5000000
  39231 multiletter control sequences out of 15000+600000
  513172 words of font info for 58 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,12n,118p,458b,401s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (5 pages).
+Output written on main.pdf (6 pages).
