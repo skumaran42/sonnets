@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.8)  26 DEC 2023 19:19
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.8)  1 JAN 2024 17:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -819,58 +819,63 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 10.
 [1
 
+] [1
+
 ]
 Package lettrine.sty Info: Targeted height = 19.744pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.71841pt (F);
-(lettrine.sty)             reported on input line 32.
+(lettrine.sty)             reported on input line 45.
 Package lettrine.sty Info: Targeted height = 19.744pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.71841pt (W);
-(lettrine.sty)             reported on input line 51.
+(lettrine.sty)             reported on input line 64.
 Package lettrine.sty Info: Targeted height = 19.744pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.71841pt (H);
-(lettrine.sty)             reported on input line 70.
- [1
-
-]
-Package lettrine.sty Info: Targeted height = 19.744pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 19.71841pt (A);
-(lettrine.sty)             reported on input line 89.
-Package lettrine.sty Info: Targeted height = 19.744pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 19.74408pt (T);
-(lettrine.sty)             reported on input line 108.
+(lettrine.sty)             reported on input line 83.
 LaTeX Font Info:    Font shape `TU/AdobeGaramondPro(0)/m/sl' in size <12> not available
-(Font)              Font shape `TU/AdobeGaramondPro(0)/m/it' tried instead on input line 110.
+(Font)              Font shape `TU/AdobeGaramondPro(0)/m/it' tried instead on input line 85.
  [2]
 Package lettrine.sty Info: Targeted height = 19.744pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 19.71841pt (W);
-(lettrine.sty)             reported on input line 127.
+(lettrine.sty)             Lettrine height = 19.71841pt (A);
+(lettrine.sty)             reported on input line 102.
 Package lettrine.sty Info: Targeted height = 19.744pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 19.71841pt (N);
-(lettrine.sty)             reported on input line 146.
+(lettrine.sty)             Lettrine height = 19.74408pt (T);
+(lettrine.sty)             reported on input line 121.
  [3]
 Package lettrine.sty Info: Targeted height = 19.744pt
 (lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.71841pt (W);
+(lettrine.sty)             reported on input line 140.
+Package lettrine.sty Info: Targeted height = 19.744pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.71841pt (N);
+(lettrine.sty)             reported on input line 159.
+ [4]
+Package lettrine.sty Info: Targeted height = 19.744pt
+(lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.71841pt (L);
-(lettrine.sty)             reported on input line 165.
+(lettrine.sty)             reported on input line 178.
 Package lettrine.sty Info: Targeted height = 19.744pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.71841pt (M);
-(lettrine.sty)             reported on input line 184.
- [4] [5] (./main.aux) ) 
+(lettrine.sty)             reported on input line 197.
+ [5]
+Package lettrine.sty Info: Targeted height = 19.744pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.71841pt (O);
+(lettrine.sty)             reported on input line 216.
+ [6] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 19277 strings out of 476683
- 412900 string characters out of 5804048
+ 19275 strings out of 476683
+ 412795 string characters out of 5804048
  1855018 words of memory out of 5000000
- 39231 multiletter control sequences out of 15000+600000
- 513172 words of font info for 58 fonts, out of 8000000 for 9000
+ 39230 multiletter control sequences out of 15000+600000
+ 513164 words of font info for 57 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,12n,118p,458b,401s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (6 pages).
+Output written on main.pdf (7 pages).
